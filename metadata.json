@@ -1,0 +1,6 @@
+{
+  "name": "PACASA Señalización Vial",
+  "description": "Sitio web interactivo y catálogo técnico de PACASA Movilidad S.L., líder en España en soluciones de señalización y seguridad vial desde 1972.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
